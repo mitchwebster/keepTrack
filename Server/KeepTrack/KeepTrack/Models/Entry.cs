@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
-using System.Web; //Some comment
+using System.Web;
 
 namespace KeepTrack.Models
 {
